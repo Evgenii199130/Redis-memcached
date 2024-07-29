@@ -51,7 +51,7 @@
 
 Ответ:
 
-![1](https://github.com/Evgenii199130/Redis-memcached)
+![1](https://github.com/Evgenii199130/Redis-memcached/blob/main/img/22-16-22.png)
 
 Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
