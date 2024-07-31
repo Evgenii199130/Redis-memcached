@@ -61,3 +61,4 @@
 Ответ:
 
 
+![1](https://github.com/Evgenii199130/Redis-memcachedimg/img/photo_2024-07-31_21-47-32.jpg)
