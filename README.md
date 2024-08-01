@@ -70,3 +70,5 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
 Ответ:
+
+![1](https://github.com/Evgenii199130/Redis-memcached/blob/main/img/photo_2024-08-01_18-38-00.jpg?raw=true)
